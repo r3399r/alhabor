@@ -1,3 +1,5 @@
-const App = () => <div className="bg-yellow-200">hi!</div>;
+import Audience from './page/audience';
+
+const App = () => <Audience />;
 
 export default App;
