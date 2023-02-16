@@ -1,5 +1,5 @@
-import Game from './page/game';
+import Audience from './page/audience';
 
-const App = () => <Game />;
+const App = () => <Audience />;
 
 export default App;
